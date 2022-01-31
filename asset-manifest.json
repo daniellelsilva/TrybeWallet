@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TrybeWallet/static/css/main.15028f1c.chunk.css",
+    "main.js": "/TrybeWallet/static/js/main.484cc81e.chunk.js",
+    "main.js.map": "/TrybeWallet/static/js/main.484cc81e.chunk.js.map",
+    "runtime-main.js": "/TrybeWallet/static/js/runtime-main.e31e136f.js",
+    "runtime-main.js.map": "/TrybeWallet/static/js/runtime-main.e31e136f.js.map",
+    "static/js/2.64f0abf1.chunk.js": "/TrybeWallet/static/js/2.64f0abf1.chunk.js",
+    "static/js/2.64f0abf1.chunk.js.map": "/TrybeWallet/static/js/2.64f0abf1.chunk.js.map",
+    "index.html": "/TrybeWallet/index.html",
+    "precache-manifest.237af8b1e9574268fd1814777bb1aee9.js": "/TrybeWallet/precache-manifest.237af8b1e9574268fd1814777bb1aee9.js",
+    "service-worker.js": "/TrybeWallet/service-worker.js",
+    "static/css/main.15028f1c.chunk.css.map": "/TrybeWallet/static/css/main.15028f1c.chunk.css.map",
+    "static/js/2.64f0abf1.chunk.js.LICENSE.txt": "/TrybeWallet/static/js/2.64f0abf1.chunk.js.LICENSE.txt",
+    "static/media/undraw_online_payments_re_y8f2.svg": "/TrybeWallet/static/media/undraw_online_payments_re_y8f2.6565bfeb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e31e136f.js",
+    "static/js/2.64f0abf1.chunk.js",
+    "static/css/main.15028f1c.chunk.css",
+    "static/js/main.484cc81e.chunk.js"
+  ]
+}
